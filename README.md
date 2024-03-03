@@ -14,6 +14,8 @@ To generate DFA visualizations, you'll need to have Graphviz installed on your s
 
 
 
+
+
 Generated NFA in Regex_to_NFA.cpp for the Given Input in main:
 
 
