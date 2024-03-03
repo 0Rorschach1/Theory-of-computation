@@ -12,5 +12,8 @@ To generate DFA visualizations, you'll need to have Graphviz installed on your s
 
 
 Generated NFA in Regex_to_NFA.cpp for the Given Input in main:
+
+
+
 ![nfa](https://github.com/0Rorschach1/Theory-of-computation/assets/158524039/e67f61b2-3920-4098-a643-370c59694c00)
 
