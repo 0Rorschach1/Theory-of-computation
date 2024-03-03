@@ -11,6 +11,9 @@ To generate DFA visualizations, you'll need to have Graphviz installed on your s
 5.Feel free to consult the official Graphviz documentation for more detailed installation instructions and troubleshooting, if needed.
 
 
+
+
+
 Generated NFA in Regex_to_NFA.cpp for the Given Input in main:
 
 
