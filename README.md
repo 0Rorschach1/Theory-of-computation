@@ -1,3 +1,6 @@
+Graphviz Tool:
+
+
 To generate DFA visualizations, you'll need to have Graphviz installed on your system. Follow these steps to set up Graphviz:
 
 1.Download Graphviz: Visit the Graphviz official website and download the appropriate version for your operating system: Graphviz Downloads
